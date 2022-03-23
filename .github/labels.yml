@@ -182,3 +182,6 @@
 - name: priority/wishlist
   color: "f5deb3"
   description: "It'd be nice to have this"
+- name: flavor/hotsauce
+  color: ff00ff
+  description: "Hot testing banana sauce"
